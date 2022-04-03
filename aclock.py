@@ -6,7 +6,7 @@ window.title("Clock")
 window.geometry("600x300")
 window.configure(bg="steelblue")
 
-label = Label(window, text="Welcome", font=("Arial Black",30,"bold"), bg="blue", fg="yellow")
+label = Label(window, font=("Arial Black",30,"bold"), bg="blue", fg="yellow")
 label.pack(pady=100)
 
 window.mainloop()
