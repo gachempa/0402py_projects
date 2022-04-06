@@ -6,7 +6,7 @@ from datetime import datetime
 window = Tk()
 window.title("Clock")
 window.geometry("600x300")
-window.configure(bg="steelblue")
+window.configure(bg="green")
 
 label = Label(window, font=("Arial Black",30,"bold"), bg="blue", fg="yellow")
 label.pack(pady=100)
