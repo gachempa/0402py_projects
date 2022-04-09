@@ -1,8 +1,4 @@
-
-
 Welcome to file 2!
 
-
-
-This is a line from the clock branch
+This is a line from the clock branch. I have moved it up some lines.
 
